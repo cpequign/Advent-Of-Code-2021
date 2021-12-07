@@ -23,4 +23,4 @@ def part(d,days=80):
     return()
 
 part(d)
-part(d,256)               
+part(d,256)
